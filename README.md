@@ -1,1 +1,3 @@
 # A-Blockchian-Based-Voting-System-for-Public-Opinion
+
+#### A blockchain-based voting system for public opinion uses blockchain technology to securely record and verify votes or opinions from the public, offering benefits such as transparency, security, and immutability of data. It allows users to submit votes through a decentralized platform, encrypts and verifies the votes, and records them on the blockchain as an immutable and auditable record. 
