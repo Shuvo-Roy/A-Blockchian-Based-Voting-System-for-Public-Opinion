@@ -1,0 +1,60 @@
+.button-wrapper-ln {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+
+  .button-black {
+    background-color: $theme-black;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 0.1rem;
+  }
+}
+.header-text {
+  font-size: 42px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.charity {
+  display: grid;
+  background: #f1f6f9;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 30px;
+  gap: 10px;
+  .charity-list{
+    padding-top: 20px;
+  }
+  .make-donation {
+    background: #eaf1f5;
+    padding-top: 20px;
+  }
+  :hover{
+    background: #eaf1f5;
+    transition: 0.3s;
+  }
+}
+.politian-title {
+  color: #e94803;
+  font-size: 30px;
+  text-align: center;
+  box-sizing: border-box;
+  border-top: #e94803;
+}
+
+.Better-Future {
+  font-size: 20px;
+}
+.leader {
+  font-size: 20px;
+}
+.Believes {
+  font-size: 20px;
+}
+.small-steps {
+  font-size: 20px;
+  border-left: 4px solid #e94803;
+  padding-left: 10px;
+}
